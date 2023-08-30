@@ -1,11 +1,13 @@
 # MacBookPro-Early2008-Fansite
 
-This is the fansite for the  MacBookPro (Early 2008)
-I made this because it was the computer that my parents had when I was a kid and it was an important part of my childhood. 
+## This is the fansite for the  MacBookPro (Early 2008)
+> I made this because it was the computer that my parents had when I was a kid and it was an important part of my childhood. 
+___
 
-Specs compared to my current laptop:
 
-| |   MacBookPro-Early 2008    |    MacBook Air M1 2020        |
+#### Specs compared to my _current_ laptop:
+
+| |   MacBookPro-Early 2008    |    MacBook Air M1 2020     |
 | :-------------: | :-------------: |:-------------:| 
 | Storage |  80 GB HDD    |     256GB SSD     |    
 | RAM |  2GB    |    8GB       |     
@@ -15,4 +17,6 @@ Specs compared to my current laptop:
 
 [Computer Specs Site](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/")
 
-![cat](Macbook2008.jpg)
+![Computer](Macbook2008.jpg)
+
+
