@@ -11,3 +11,8 @@ Specs compared to my current laptop:
 | RAM |  2GB    |    8GB       |     
 | Processor  | 1.6GHz Core 2 Duo (P7500)| 5-nm 3.2 GHz Apple M1 processor |
 | Graphics Card | Intel GMA X3100 with 144 MB | 7-Core Integrated GPU |
+
+
+[Computer Specs Site](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/")
+
+![cat](Macbook2008.jpg)
