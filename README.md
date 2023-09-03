@@ -23,3 +23,7 @@ ___
 ![Computer](Macbook2008.jpg)
 
 [^1]:[Image Site](https://madeapple.com/macbook-13-inch-early-2008/")
+
+
+My Computer: 
+![Computer](Macbook2020m1.jpg)
