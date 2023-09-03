@@ -15,7 +15,7 @@ ___
 | Graphics Card | Intel GMA X3100 with 144 MB | 7-Core Integrated GPU |
 
 
-[Computer Specs Site](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/")
+[Computer Specs Site](https://www.sellyourmac.com/mac-product-guides/macbook-air/mb003ll-a-13-macbook-air-early-2008-1-6-ghz-core-2-duo.html#:~:text=The%2013%22%20MacBook%20Air%20(Early,and%202GB%20of%20Integrated%20RAM)%22/")
 
 ![Computer](Macbook2008.jpg)
 
