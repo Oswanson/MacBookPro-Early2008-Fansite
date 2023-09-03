@@ -17,6 +17,9 @@ ___
 
 [Computer Specs Site](https://www.sellyourmac.com/mac-product-guides/macbook-air/mb003ll-a-13-macbook-air-early-2008-1-6-ghz-core-2-duo.html#:~:text=The%2013%22%20MacBook%20Air%20(Early,and%202GB%20of%20Integrated%20RAM)%22/")
 
-![Computer](Macbook2008.jpg)
 
 
+##### This is an image of the computer[^1].
+![Computer](MacBook2008.jpg")
+
+[^1]:[Image Site](https://madeapple.com/macbook-13-inch-early-2008/")
