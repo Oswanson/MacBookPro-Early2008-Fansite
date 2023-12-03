@@ -27,6 +27,10 @@ ___
 
 My Computer: 
 ![Computer](Macbook2020m1.jpg)
+<br>
+:open_mouth: Nice Computer
+
+
 
 <details>
   <summary>Credit</summary>
@@ -35,4 +39,5 @@ My Computer:
 -  <kbd>[Another CheatSheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
 
 </details>
+
 
