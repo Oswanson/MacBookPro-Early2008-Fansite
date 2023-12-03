@@ -27,3 +27,12 @@ ___
 
 My Computer: 
 ![Computer](Macbook2020m1.jpg)
+
+<details>
+  <summary>Credit</summary>
+
+-  <kbd>[Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</kbd>
+-  <kbd>[Another CheatSheet](https://github.com/lifeparticle/Markdown-Cheatsheet)</kbd>
+
+</details>
+
